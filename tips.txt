@@ -1,0 +1,4 @@
+  766  adb kill-server
+  767  adb start-server
+  768  adb reverse tcp:8081 tcp:8081
+If adb can't see your phone you may have to go to developer options and set USB debugging to ON

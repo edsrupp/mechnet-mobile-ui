@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTShadowTextView.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h

@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/edrupp/usc/mechnetMobile/InspectionManager/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
